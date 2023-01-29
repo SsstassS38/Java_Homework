@@ -100,7 +100,7 @@
 
 
  
-                                                      #СЛОВАРИ
+                                                                           #СЛОВАРИ
 
 # dictionary = {}
 # dictionary = \
@@ -191,9 +191,9 @@
 
 
                                                                     #Неизменяемое множество
-# a = {1, 2, 3, 5, 8}
-# b = frozenset(a)
-# print(b) # frozenset({1, 2, 3, 5, 8})
+a = {1, 2, 3, 5, 8}
+b = frozenset(a)
+print(b) # frozenset({1, 2, 3, 5, 8})
 
                                                                     # ЛИСТЫ
 list1 = [1, 2, 3, 4, 333]

@@ -1,3 +1,5 @@
+package Seminars.Seminar2;
+
 import java.util.*;
 
 // Напишите метод, который сжимает строку.

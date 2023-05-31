@@ -1,7 +1,7 @@
-package lection3;
+// package lection3;
 
-public class Ex000 {
-        public static void main(String[] args) {
+// // public class Ex000 {
+// //         public static void main(String[] args) {
             
-        }
-}
+// //         }
+// // }

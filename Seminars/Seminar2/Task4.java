@@ -1,6 +1,7 @@
 /*
  * Наипшите метод, который составит строку из повторений слова TEST и метод, который запишет результат в текстовый файл, обработайте исключения
  */
+package Seminars.Seminar2;
 
  import java.io.FileWriter;
  import java.io.IOException;
